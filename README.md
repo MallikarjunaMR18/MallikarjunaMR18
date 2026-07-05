@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mallikarjuna M R</h1>
-I am BCA Student.<br>I Studying at the JSSCACS Ooty Road, Mysore.<br><br>
+I am a BCA Student.<br>I pursuing at the JSSCACS Ooty Road, Mysore.<br><br>
 
 [![](https://komarev.com/ghpvc/?username=MallikarjunaMR18&icon=0&color=0)](https://visitcount.itsvg.in)<br><br>
 - 📑 Check out my resume here -
